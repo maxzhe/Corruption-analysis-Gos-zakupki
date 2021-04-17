@@ -17,10 +17,10 @@ If corruption is present, there should be big share of auctions with small relat
 The model estimates the following relationship:
 
 
-![image](https://user-images.githubusercontent.com/79480062/115112948-7f03e200-9f90-11eb-97ae-cecf4548f255.png | width=700)
+![](https://user-images.githubusercontent.com/79480062/115112948-7f03e200-9f90-11eb-97ae-cecf4548f255.png | width=700)
 
 
-![image](https://user-images.githubusercontent.com/79480062/115112928-60055000-9f90-11eb-960f-d33517e010ad.png = 500x500)
+![](https://user-images.githubusercontent.com/79480062/115112928-60055000-9f90-11eb-960f-d33517e010ad.png )
 
 
 
