@@ -13,15 +13,16 @@ As a result, the following analysis focuses on the following variables:
 -	Timing of bids
 -	Position of winning bid in time
 
+<img src="https://user-images.githubusercontent.com/79480062/115112948-7f03e200-9f90-11eb-97ae-cecf4548f255.png" alt="alt text"  width="700">
+
 If corruption is present, there should be big share of auctions with small relative price change and winner placing bid last and late
 The model estimates the following relationship:
 
-Estimated coefficients are presented in Figure 7. It can be seen that all variables are significant and there exists positive dependence of suggested corruptive patterns 〖(winner last〗_i*〖last moment bid〗_i) on price change being less than 1% (〖suspect price change〗_i). Moreover, reserve price also positively impacts dependent variable, whereas increase in number of bidders tends to negatively impact corruption pattern.![image](https://user-images.githubusercontent.com/79480062/115113266-2a616680-9f92-11eb-9bf7-765bb0c70986.png)
+
+Estimated coefficients are presented in Figure 7. It can be seen that all variables are significant and there exists positive dependence of suggested corruptive patterns 〖(winner last〗_i*〖last moment bid〗_i) on price change being less than 1% (〖suspect price change〗_i). Moreover, reserve price also positively impacts dependent variable, whereas increase in number of bidders tends to negatively impact corruption pattern.
 
 
 OLS results
-
-<img src="https://user-images.githubusercontent.com/79480062/115112948-7f03e200-9f90-11eb-97ae-cecf4548f255.png" alt="alt text"  width="700">
 
 <img src="https://user-images.githubusercontent.com/79480062/115112928-60055000-9f90-11eb-960f-d33517e010ad.png" alt="alt text" width="500" height="440">
 
