@@ -1,4 +1,4 @@
-# Corruption-analysis-Gos-zakupki
+# Corruption analysis of Gos zakupki
 
 This paper analyses and investigates the effect of corruption on competition in procurement in Russia. Russian context is no different from the rest of the world and it order to understand consequences of corruption there it is enough to recall the scandal concerning embezzlement of 256 billion rubles from the state budget during the construction of the Moscow Ring Road for which no one has been held responsible for so far. 
 
