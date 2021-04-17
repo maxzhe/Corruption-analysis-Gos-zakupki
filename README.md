@@ -18,9 +18,9 @@ The model estimates the following relationship:
 
 
 
-<img src="https://user-images.githubusercontent.com/79480062/115112948-7f03e200-9f90-11eb-97ae-cecf4548f255.png" alt="alt text"  height="700">
+<img src="https://user-images.githubusercontent.com/79480062/115112948-7f03e200-9f90-11eb-97ae-cecf4548f255.png" alt="alt text"  width="700">
 
-<img src="https://user-images.githubusercontent.com/79480062/115112928-60055000-9f90-11eb-960f-d33517e010ad.png" alt="alt text" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/79480062/115112928-60055000-9f90-11eb-960f-d33517e010ad.png" alt="alt text" width="500" height="440">
 
 
 Conclusion 
